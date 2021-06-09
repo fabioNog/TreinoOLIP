@@ -84,7 +84,7 @@ void HashTable::removeItem(int key){
 
          auto bItr  = table[i].begin();
          for(; bItr != table[i].end(); bItr++){
-             cout << "[INFO] Key: " << bItr->first << " valeu: " << bItr->second << endl;
+             cout << "[INFO] Key: " << bItr->first << " value: " << bItr->second << endl;
          }
      }
      return;
@@ -114,7 +114,7 @@ int main(int argc, const char** argv) {
     ht.removeItem(308);
     ht.removeItem(125);
     if(ht.isEmpty()){
-        cout << "Review your code";
+        cout << "Review your code" << endl;
     }
     else{
         cout << "Good Job!" << endl;
