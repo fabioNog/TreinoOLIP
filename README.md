@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="700" align="center" src="../../Codes/evaneutrons.jpeg" alt="demo"/>
+  <img width="700" align="center" src="https://portal.pcs.ifsuldeminas.edu.br//templates/padraogoverno01/images/logoif.png" alt="demo"/>
 </p>
 
 ##  Maratona
