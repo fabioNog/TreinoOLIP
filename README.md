@@ -5,6 +5,8 @@
   <img width="700" align="center" src="./evaneutrons.jpeg" alt="demo"/>
 </p>
 
+##  Maratona
+<h4>Treino para Maratona dos Institutos Federais do Sul de Minas</h4><br>
 
 ## 🤝 Contributing
 
@@ -17,9 +19,9 @@ Contributions, issues and feature requests are welcome.<br />
 
 
 
-Copyright © 2019 [Franck Abgrall](https://github.com/kefranabg).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+Copyright © 2019 OLIP<br />
+
 
 ---
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️ by EVA NEUTrONs
