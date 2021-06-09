@@ -11,11 +11,11 @@
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome.<br />
-[Check the contributing guide](./CONTRIBUTING.md).<br />
+IFSMG<br />
 
 ## Author
 
-👤 **Fabio Nogueira**
+👤 **Fabio Nogueira, Alexandre, Pedro**
 
 
 
