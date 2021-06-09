@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="700" align="center" src="evaneutrons.jpeg" alt="demo"/>
+  <img width="700" align="center" src="../../evaneutrons.jpeg" alt="demo"/>
 </p>
 
 ##  Maratona
